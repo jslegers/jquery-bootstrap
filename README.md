@@ -3,7 +3,7 @@
 
 ##Summary
 
-jQuery Bootstrap it's not just another CSS framework. jQuery Bootstrap is a framework that will change the way you use CSS.
+jQuery Bootstrap is not just another CSS framework. jQuery Bootstrap is a framework that will change the way you use CSS.
 
 jQuery Bootstrap combines the power of Twitter Bootstrap and the jQuery UI into a single CSS boilerplate with easy to learn consistent  semantics, offering both highly atomic functionality and more advanced layout options with a minimal amount of code. With jQuery  Bootstrap, you can keep your CSS both clean and readable and stick to the same consistent standards for all of your CSS code.
 
@@ -12,7 +12,7 @@ Future versions of jQuery Bootstrap will also offer support for jQuery UI Widget
 
 ##Support
 
-jQuery Bootstrap 0.1 is a pre-release version and more a proof of concept than anything else. A lot may change between this version and  later versions. You should not use this version of jQuery Bootstrap in a production environment. Any use of jQuery Bootstrap 0.1 beyond  educational and evaluation purposes is not recommended.
+jQuery Bootstrap 0.1 is a pre-release version and more a proof of concept than anything else. It's still a work in progress. A lot may change between this version and  later versions. You should not use this version of jQuery Bootstrap in a production environment. Any use of jQuery Bootstrap 0.1 beyond educational and evaluation purposes is not recommended.
 
 jQuery Bootstrap 0.1 is designed for jQuery UI 1.8 and jQuery 1.6 and currently untested in other versions. All browsers (including old  ones) should be supported. jQuery Bootstrap even offers partial support for IE6. 
 
@@ -29,7 +29,7 @@ Have a bug? Please [create an issue here](https://github.com/jslegers/jquery-boo
 
 ##Development
 
-You can't to support this project? You can! Fork it and you can become a part of it NOW!
+You wan't to support this project? You can! Fork it and you can become a part of it NOW!
 
 
 ##Author
