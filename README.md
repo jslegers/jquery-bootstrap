@@ -1,5 +1,5 @@
 
-#JQUERY BOOTSTRAP 0.1
+#JQUERY BOOTSTRAP 0.2
 
 ##Summary
 
@@ -12,9 +12,9 @@ Future versions of jQuery Bootstrap will also offer support for jQuery UI Widget
 
 ##Support
 
-jQuery Bootstrap 0.1 is a pre-release version and more a proof of concept than anything else. It's still a work in progress. A lot may change between this version and  later versions. You should not use this version of jQuery Bootstrap in a production environment. Any use of jQuery Bootstrap 0.1 beyond educational and evaluation purposes is not recommended.
+jQuery Bootstrap 0.2 is a pre-release version and more a proof of concept than anything else. It's still a work in progress. A lot may change between this version and  later versions. You should not use this version of jQuery Bootstrap in a production environment. Any use of jQuery Bootstrap 0.2 beyond educational and evaluation purposes is not recommended.
 
-jQuery Bootstrap 0.1 is designed for jQuery UI 1.8 and jQuery 1.6 and currently untested in other versions. All browsers (including old  ones) should be supported. jQuery Bootstrap even offers partial support for IE6. 
+jQuery Bootstrap 0.2 is designed for jQuery UI 1.8 and jQuery 1.6 and currently untested in other versions. All browsers (including old  ones) should be supported. jQuery Bootstrap even offers partial support for IE6. 
 
 
 ##Demo
