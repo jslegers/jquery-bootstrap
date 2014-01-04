@@ -43,3 +43,6 @@ You wan't to support this project? You can! Fork it and you can become a part of
 ##Copyright and License
 
 Like jQuery and jQuery UI, jQuery Bootstrap is dual licensed under MIT and GPL licenses.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jslegers/jquery-bootstrap/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
