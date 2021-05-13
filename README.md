@@ -39,6 +39,6 @@ You wan't to support this project? You can! Fork it and you can become a part of
 * Follow me [on Github](http://github.com/jslegers)
 
 
-##Copyright and License
+## Copyright and License
 
 Like jQuery and jQuery UI, jQuery Bootstrap is dual licensed under MIT and GPL licenses.
