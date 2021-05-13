@@ -18,7 +18,7 @@ jQuery Bootstrap 0.2 is designed for jQuery UI 1.8 and jQuery 1.6 and currently 
 
 ## Demo
 
-For a live demo, go to [http://jslegers.github.com/jquery-bootstrap](http://jslegers.github.com/jquery-bootstrap).
+For a live demo, go to [http://jslegers.github.io/jquery-bootstrap](http://jslegers.github.io/jquery-bootstrap).
 
 
 ## Bug Tracker
